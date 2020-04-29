@@ -1,0 +1,4 @@
+com\blhx\mall\config\MyBatisConfig.class
+com\blhx\mall\MallApplication.class
+com\blhx\mall\mbg\Generator.class
+com\blhx\mall\controller\PmsBrandController.class
